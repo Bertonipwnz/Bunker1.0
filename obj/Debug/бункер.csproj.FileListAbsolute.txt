@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\бункер\bin\Debug\бункер.exe.config
+C:\Users\User\source\repos\бункер\bin\Debug\бункер.exe
+C:\Users\User\source\repos\бункер\bin\Debug\бункер.pdb
+C:\Users\User\source\repos\бункер\obj\Debug\бункер.csprojAssemblyReference.cache
+C:\Users\User\source\repos\бункер\obj\Debug\бункер.Form1.resources
+C:\Users\User\source\repos\бункер\obj\Debug\бункер.Properties.Resources.resources
+C:\Users\User\source\repos\бункер\obj\Debug\бункер.csproj.GenerateResource.cache
+C:\Users\User\source\repos\бункер\obj\Debug\бункер.exe
+C:\Users\User\source\repos\бункер\obj\Debug\бункер.pdb
